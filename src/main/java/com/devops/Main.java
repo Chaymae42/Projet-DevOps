@@ -1,3 +1,6 @@
+package com.devops;
+
+
 public class Main {
     public static void main(String[] args) {
         MessageService service = new MessageService();
